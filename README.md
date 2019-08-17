@@ -1,5 +1,7 @@
 # We have discontinued the publicly hosted version of RequestBin due to ongoing abuse that made it very difficult to keep the site up reliably. Please see instructions below for setting up your own self-hosted instance.
 
+2019 update: Publicly hosted available [bin.on.dockerize.io](https://bin.on.dockerize.io)
+
 Originally Created by [Jeff Lindsay](http://progrium.com)
 
 License
